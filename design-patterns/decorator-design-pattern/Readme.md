@@ -1,0 +1,2 @@
+- It has both is-a and has-a relationship. It makes it unique
+- If we don't use decorator design pattern, then we will end up creating multiple permutations of classes like - one class for cheese, another for cheese + Mushroom , another for cheese+ mushroom + pepper, etc.
